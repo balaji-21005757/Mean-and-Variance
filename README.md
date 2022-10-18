@@ -75,6 +75,6 @@ print("The Variance of arrival from feeder is %.3f"%var)
 print("The Standard deviation of arrival from feeder is %.3f"%SD)
 ```
 # Output : 
-![ou](./2.png)
+![ou](./4.png)
 # Result :
 Thus to find mean and variance of arrival of objects from the feeder using probability distribution is completed successfully.
